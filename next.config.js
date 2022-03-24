@@ -12,6 +12,8 @@ module.exports = withPWA({
   },
   images: {
     domains: [
+      'creatva.com',
+      '3.89.170.91',
       'localhost',
       '127.0.0.1:8000',
       'maps.googleapis.com',
